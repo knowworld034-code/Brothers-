@@ -1,0 +1,6 @@
+{
+  "name": "Three Brothers",
+  "description": "Complete E-Commerce platform & mobile store for Three Brothers featuring product catalog, AI recommendations, order tracking, multi-payment options, analytics, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
